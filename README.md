@@ -112,6 +112,10 @@
 
 ---
 
+## 개발 환경
+<img width="1007" height="675" alt="image" src="https://github.com/user-attachments/assets/7b793088-8f76-4e21-b115-e8347d5e27b2" />
+
+
 ## 프로젝트 아키텍처
 ![Image](https://github.com/user-attachments/assets/43eda360-4f79-4c9e-9d82-c9d303e81bfb)
 > - MSA 구조로 각 서비스가 독립적으로 배포 및 관리되며, IaaS로 NHN Cloud를 활용했습니다.
